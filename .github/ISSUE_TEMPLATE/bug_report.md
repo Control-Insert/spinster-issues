@@ -23,6 +23,13 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Logs**
+Attach logs if applicable.
+
+Windows: `%APPDATA%/spinster/spinster.log`
+
+Linux: `$HOME/.config/spinster/spinster.log`
+
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows]
  - Version [e.g. 22]
